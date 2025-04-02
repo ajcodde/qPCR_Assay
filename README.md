@@ -4,7 +4,7 @@ This section outlines the code used to derive genome lengths and identify oriC r
 
 **Genome Lengths**
 
-<p> To obtain the genome lengths of the microbial strains used in our study (Escherichia coli and Bacteroides thetaiotaomicron), we used the `genome_length.py` script. This script processes the genomic sequences provided in FASTA format and calculates the genome length for each microbe sequence. </p>
+<p> To obtain the genome lengths of the microbial strains used in our study (Escherichia coli and Bacteroides thetaiotaomicron), we used the genome_length.py script. This script processes the genomic sequences provided in FASTA format and calculates the genome length for each microbe sequence. </p>
 
 **Running ORCA**
 
